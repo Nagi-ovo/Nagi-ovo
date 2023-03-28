@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Nagi-ovo</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Swenchao" alt="vistors" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Nagi-ovo" alt="vistors" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swenchao&count_private=true&show_icons=true&theme=vue-dark&hide_title=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=vue-dark&hide_title=true" alt="github stats" />
 </p>
