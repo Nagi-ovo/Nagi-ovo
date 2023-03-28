@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Nagi-ovo</h3>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Swenchao" alt="vistors" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Swenchao&count_private=true&show_icons=true&theme=vue-dark&hide_title=true" alt="github stats" />
+</p>
