@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
  ### Hi there, Im Nagi-ovo👋
   
-<img align='right' src="https://github-readme-stats-woad-seven-84.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=dracula&hide_title=true" alt="github stats" />
+<img align='right' src="https://github-readme-stats-nagi.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=dracula&hide_title=true" alt="github stats" />
 
 - :orange_book: Focusing on AI & Game Design
 - :hammer: a College Student
