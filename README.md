@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 
 <p align="center">
 ### Hi there,Im Nagi-ovo👋
+  
 - :orange_book: Focusing on AI & Game Design
 - :hammer: a College Student
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
+ </p>
+ <p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Nagi-ovo" alt="vistors" />
 </p>
 
