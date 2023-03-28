@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - :orange_book: Focusing on AI & Game Design
 - :hammer: a College Student
 - :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- :meat_on_bone: Meat lover 
 
 
 <br />
