@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 
- ### Hi there,Im Nagi-ovo👋
+ ### Hi there, Im Nagi-ovo👋
   
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=dracula&hide_title=true" alt="github stats" />
 
@@ -31,10 +31,7 @@ Here are some ideas to get you started:
 
 
 
-
-<p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Nagi-ovo&layout=compact' alt='top langs' />
-</p>
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Nagi-ovo&layout=compact' alt='top langs' />
 
 
 
