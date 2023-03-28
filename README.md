@@ -22,12 +22,14 @@ Here are some ideas to get you started:
 
  ### Hi there,Im Nagi-ovo👋
   
+<img src="https://github-readme-stats.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=dracula&hide_title=true" alt="github stats" />
+
 - :orange_book: Focusing on AI & Game Design
 - :hammer: a College Student
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=dracula&hide_title=true" alt="github stats" />
+
 
 
 <p align='center'>
