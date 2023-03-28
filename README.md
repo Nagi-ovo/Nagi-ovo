@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Nagi-ovo</h3>
 <p align='center'>
-  <img align='right' src="https://visitor-badge.glitch.me/badge?page_id=Nagi-ovo" alt="vistors" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Nagi-ovo" alt="vistors" />
 </p>
 
 
  ### Hi there,Im Nagi-ovo👋
   
-<img src="https://github-readme-stats.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=dracula&hide_title=true" alt="github stats" />
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=dracula&hide_title=true" alt="github stats" />
 
 - :orange_book: Focusing on AI & Game Design
 - :hammer: a College Student
