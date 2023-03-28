@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Nagi-ovo</h3>
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Nagi-ovo" alt="vistors" />
+  <img align='right' src="https://visitor-badge.glitch.me/badge?page_id=Nagi-ovo" alt="vistors" />
 </p>
 
 
