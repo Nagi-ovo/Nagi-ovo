@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=vue-dark&hide_title=true" alt="github stats" />
 </p>
 
-<p align='center'>
+<div align='center'>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- </p>
+ </div>
