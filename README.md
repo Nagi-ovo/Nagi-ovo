@@ -1,5 +1,10 @@
 ### Hi there,Im Nagi-ovo👋
 
+- :orange_book: Focusing on Swift & iOS
+- :hammer: Creator of applications and frameworks
+- :ram: Founder the ObjCCN
+- :meat_on_bone: Meat lover
+
 <!--
 **Nagi-ovo/Nagi-ovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
