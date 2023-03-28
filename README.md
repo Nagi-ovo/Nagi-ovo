@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Nagi-ovo</h3>
-<p>
+<p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Nagi-ovo" alt="vistors" />
 </p>
 
 <p align="center">
-### Hi there,Im Nagi-ovo👋
+ ### Hi there,Im Nagi-ovo👋
   
 - :orange_book: Focusing on AI & Game Design
 - :hammer: a College Student
