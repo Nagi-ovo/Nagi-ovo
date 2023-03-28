@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - :orange_book: Focusing on AI & Game Design
 - :hammer: a College Student
-- :ram: Founder the ObjCCN
+- :ram: Founder of the BJUT Digital Planet(not yet)
 - :meat_on_bone: Meat lover 
 
 
