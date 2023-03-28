@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 - :meat_on_bone: Meat lover
 
 
+<br />
+<br />
+<br />
 
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Nagi-ovo&layout=compact' alt='top langs' />
 
