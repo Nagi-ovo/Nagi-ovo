@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Nagi-ovo</h3>
 
 <p align="center">
-  ### Hi there,Im Nagi-ovo👋
-
+### Hi there,Im Nagi-ovo👋
 - :orange_book: Focusing on AI & Game Design
 - :hammer: a College Student
 - :ram: Founder the ObjCCN
