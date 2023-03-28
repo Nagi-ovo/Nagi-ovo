@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Nagi-ovo</h3>
+<p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Nagi-ovo" alt="vistors" />
+</p>
 
 <p align="center">
 ### Hi there,Im Nagi-ovo👋
@@ -24,9 +27,7 @@ Here are some ideas to get you started:
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
  </p>
- <p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Nagi-ovo" alt="vistors" />
-</p>
+ 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=dracula&hide_title=true" alt="github stats" />
