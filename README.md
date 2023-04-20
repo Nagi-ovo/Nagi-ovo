@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br />
 
- ### Hi there, Im Nagi-ovo👋
+ ### Hi there, Im Jesse Zhang👋
   
 <img align='right' src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=dracula&hide_title=true" alt="github stats" />
 
