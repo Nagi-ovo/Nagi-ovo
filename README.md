@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - :orange_book: Focusing on AI & Game Design
 - :hammer: a sophomore in BJUT
-- :ram: Founder of xxx(not yet)
+- :ram: Founder of Codiverse（a wechat planet）
 - :meat_on_bone: BBQ lover 
 
 
