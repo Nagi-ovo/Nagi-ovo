@@ -35,6 +35,3 @@ Here are some ideas to get you started:
 
 <img align='right' src='https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/top-langs/?username=Nagi-ovo&layout=compact' alt='top langs' />
 
- <!-- waka-box start -->
- <!-- waka-box end -->
-<script src="https://gist.github.com/Nagi-ovo/8a27d219387fda2c9486b44fc1c2a37e.js"></script>
