@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 - 🌏: Founder of Codiverse（a wechat planet）
 - :meat_on_bone: BBQ lover 
 
-<script src="https://gist.github.com/Nagi-ovo/8a27d219387fda2c9486b44fc1c2a37e.js"></script>
+Go         4 mins         ████████████▊░░░░░░░░  60.9%
+Markdown   1 min          ████▏░░░░░░░░░░░░░░░░  19.8%
+Python     1 min          ████░░░░░░░░░░░░░░░░░  19.3%
 
 
 <br />
