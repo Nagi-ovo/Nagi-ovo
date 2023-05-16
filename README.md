@@ -36,8 +36,7 @@ Python     1 min          ████░░░░░░░░░░░░░░
 
 
 
-<br />
-<br /><img align='right' src='https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/top-langs/?username=Nagi-ovo&layout=compact' alt='top langs' />
+<img align='right' src='https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/top-langs/?username=Nagi-ovo&layout=compact' alt='top langs' />
 <br />
 
 
