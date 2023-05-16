@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 - 🔬: a sophomore in BJUT
 - 🌏: Founder of Codiverse（a wechat planet）
 - :meat_on_bone: BBQ lover 
-<!-- gist: 8a27d219387fda2c9486b44fc1c2a37e -->
+
+<script src="https://gist.github.com/Nagi-ovo/8a27d219387fda2c9486b44fc1c2a37e.js"></script>
 
 
 <br />
