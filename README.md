@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Nagi-ovo</h3>
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Nagi-ovo" alt="vistors" />
-</p>
+
 
 <br />
 
  ### Hi there, Im Jesse Zhang👋
-![](https://visitor-badge.glitch.me/badge?page_id=Nagi-ovo.readme)
+
 <img align='right' src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=dracula&hide_title=true" alt="github stats" />
 
 - :orange_book: Focusing on AI & Game Design
