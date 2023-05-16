@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 <br />
 
  ### Hi there, Im Jesse Zhang👋
-[![Anurag's GitHub stats](https://github-readme-stats-nagi.vercel.app/api?username=Nagi-ovo)](https://github.com/nagi-ovo/github-readme-stats)
-
+<img align='right' src='https://github-readme-stats-nagi.vercel.app/api/top-langs/?username=Nagi-ovo&layout=compact' alt='top langs' />
 - :orange_book: Focusing on AI & Game Design
 - 🔬: a sophomore in BJUT
 - 🌏: Founder of Codiverse（a wechat planet）
