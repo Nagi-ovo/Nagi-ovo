@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  ### Hi there, Im Jesse Zhang👋
 
 <img align='right' src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=dracula&hide_title=true" alt="github stats" />
-
+<img align='right' src='https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/top-langs/?username=Nagi-ovo&layout=compact' alt='top langs' />
 - :orange_book: Focusing on AI & Game Design
 - 🔬: a sophomore in BJUT
 - 🌏: Founder of Codiverse（a wechat planet）
@@ -40,5 +40,5 @@ Python     1 min          ████░░░░░░░░░░░░░░
 <br />
 <br />
 
-<img align='right' src='https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/top-langs/?username=Nagi-ovo&layout=compact' alt='top langs' />
+
 
