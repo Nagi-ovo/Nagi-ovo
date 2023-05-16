@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <p>
 
 ```python
-<!-- Go         4 mins         ████████████▊░░░░░░░░  60.9%
+Go         4 mins         ████████████▊░░░░░░░░  60.9%
 Markdown   1 min          ████▏░░░░░░░░░░░░░░░░  19.8%
-Python     1 min          ████░░░░░░░░░░░░░░░░░  19.3% -->
+Python     1 min          ████░░░░░░░░░░░░░░░░░  19.3% 
 </p> </details>
 ```
 
