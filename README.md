@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🔬: a sophomore in BJUT
 - 🌏: Founder of Codiverse（a wechat planet）
 - :meat_on_bone: BBQ lover 
-<img align='right' src='https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/top-langs/?username=Nagi-ovo&layout=compact' alt='top langs' />
+
 ```markdown
 Go         4 mins         ████████████▊░░░░░░░░  60.9%
 Markdown   1 min          ████▏░░░░░░░░░░░░░░░░  19.8%
@@ -37,7 +37,7 @@ Python     1 min          ████░░░░░░░░░░░░░░
 
 
 <br />
-<br />
+<br /><img align='right' src='https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/top-langs/?username=Nagi-ovo&layout=compact' alt='top langs' />
 <br />
 
 
