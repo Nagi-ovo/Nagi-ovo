@@ -33,7 +33,8 @@ Markdown   1 hr 42 mins   ██████████████████
 Go         6 mins         █▏░░░░░░░░░░░░░░░░░░░   5.8%
 Python     3 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.8%
  ```
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <img align='right' src='https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/top-langs/?username=Nagi-ovo&layout=compact' alt='top langs' />
