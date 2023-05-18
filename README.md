@@ -28,11 +28,7 @@ Here are some ideas to get you started:
 - 🌏: Founder of Codiverse（a wechat planet）
 - :meat_on_bone: BBQ lover 
 
-```text
-Markdown   1 hr 42 mins   ███████████████████▏░  91.3%
-Go         6 mins         █▏░░░░░░░░░░░░░░░░░░░   5.8%
-Python     3 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.8%
- ```
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue)
 
