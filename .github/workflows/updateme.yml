@@ -1,10 +1,8 @@
 name: Waka Readme
 
 on:
-  push:
   schedule:
     - cron: '0 16 * * *'
-  issue_comment:
   
 
 jobs:
