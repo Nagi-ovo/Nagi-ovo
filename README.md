@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=dracula&hide_title=true" alt="github stats" />
 
-- :orange_book: Focusing on AI & Game Design
+- :orange_book: Focusing on AI , Game Design & Computer Graphics
 - 🔬: a sophomore in BJUT
 - 🌏: Founder of Codiverse（a wechat planet）
 - :meat_on_bone: BBQ lover 
