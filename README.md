@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 - :orange_book: Focusing on AI , Game Design & Computer Graphics
 - 🔬: a sophomore in BJUT
 - 🌏: Founder of Codiverse（a wechat planet）
-- :meat_on_bone: BBQ lover 
+- :meat_on_bone: BBQ lover
+- 
 <img height="150" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/top-langs/?username=Nagi-ovo&hide=css,scss,html,java&layout=compact&card_width=345&card_height=400" alt="Nagi-ovo's Language stats">
 
-![Nagi's GitHub stats](https://github-readme-stats-git-main-nagi-ovo.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=radical)
+<img height="150" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=radical" alt="Nagi's GitHub stats">
+
 
 
 
