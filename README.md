@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  ### Hi there, Im Jesse Zhang👋
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <img align='right' src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=dracula&hide_title=true" alt="github stats" />
 <img align='right' src="https://gh-readme-stats-git-main-nagi-ovo.vercel.app/api?username=Nagi-ovo&count_private=true&show_icons=true&theme=dracula&hide_title=true" alt="github stats" />
 
