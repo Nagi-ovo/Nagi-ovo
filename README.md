@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 <br />
 
  ### Hi there, Im Jesse Zhang👋
+- :orange_book: Focusing on AI , Game Design & Computer Graphics
+- 🔬: a sophomore in BJUT
+- 🌏: Founder of Codiverse（a wechat planet）
+- :meat_on_bone: BBQ lover 
 
 [![Top Langs](https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/top-langs/?username=Nagi-ovo&hide=css,scss,html,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Nagi's GitHub stats](https://github-readme-stats-git-main-nagi-ovo.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=radical)
 
 
 
-- :orange_book: Focusing on AI , Game Design & Computer Graphics
-- 🔬: a sophomore in BJUT
-- 🌏: Founder of Codiverse（a wechat planet）
-- :meat_on_bone: BBQ lover 
 
 
 <!--START_SECTION:waka-->
