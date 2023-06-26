@@ -30,6 +30,14 @@ Here are some ideas to get you started:
   <img height="170" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=radical" alt="Nagi's GitHub stats">
 </div>
 
+### I'm recently working on this project:</a>
+
+ <div>
+<a href="https://github.com/Open-BJUT/BJUT-Helper">
+  <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=BJUT-Helper" alt="BJUT-Helper">
+</a>
+</div>
+
 
 
 
@@ -59,13 +67,5 @@ Windows                  12 hrs 8 mins       ███████████�
  Last Updated on 26/06/2023 16:22:54 UTC
 <!--END_SECTION:waka-->
 
-
-### I'm recently working on this project:</a>
-
- <div>
-<a href="https://github.com/Open-BJUT/BJUT-Helper">
-  <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=BJUT-Helper" alt="BJUT-Helper">
-</a>
-</div>
 
 
