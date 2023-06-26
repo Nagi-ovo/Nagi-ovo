@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌏: Founder of Codiverse（a wechat planet）
 - :meat_on_bone: BBQ lover 
 
-[![Top Langs](https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/top-langs/?username=Nagi-ovo&hide=css,scss,html,java&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/top-langs/?username=Nagi-ovo&hide=css,scss,html,java&layout=compact&card_width=445&card_height=250)](https://github.com/anuraghazra/github-readme-stats)
 ![Nagi's GitHub stats](https://github-readme-stats-git-main-nagi-ovo.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=radical)
 
 
