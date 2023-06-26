@@ -61,7 +61,7 @@ Windows                  12 hrs 8 mins       ███████████�
 
 
 <a href="https://github.com/Open-BJUT/BJUT-Helper">
-  <img align="center" src="https://https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=Open-BJUT/BJUT-Helper" />
+  <img align="center" src="https://https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Open-BJUT&repo=Open-BJUT/BJUT-Helper" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
