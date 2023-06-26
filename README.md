@@ -59,7 +59,7 @@ Windows                  12 hrs 8 mins       ███████████�
 <!--END_SECTION:waka-->
 
 
-
+[![Readme Card](https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=BJUT-Helper)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/Open-BJUT/BJUT-Helper">
   <img align="center" src="https://https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Open-BJUT&repo=BJUT-Helper" />
 </a>
