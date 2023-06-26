@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img height="170" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=radical" alt="Nagi's GitHub stats">
 </div>
 
-### I'm recently working on this project:</a>
+### I'm recently working on:</a>
 
  <div>
 <a href="https://github.com/Open-BJUT/BJUT-Helper">
