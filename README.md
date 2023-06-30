@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/Open-BJUT/BJUT-Helper">
   <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=BJUT-Helper" alt="BJUT-Helper">
 </a>
-  
+<a href="https://github.com/Nagi-ovo/EZ4STU">
+  <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=EZ4STU" alt="EZ4STU">
+</a>  
 </div>
 
 <br />
