@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br />
 
  ### Hi there, Im Jesse Zhang👋
-- :orange_book: Focusing on AI , Game Design & Computer Graphics
+- :orange_book: Focusing on AI , Math & Computer Graphics
 - 🔬: a sophomore in BJUT
 - 🌏: Founder of Codiverse（a wechat planet）
 - :meat_on_bone: BBQ lover
