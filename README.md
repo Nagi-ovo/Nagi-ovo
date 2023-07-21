@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
  ### Hi there, Im Jesse Zhang👋
 - :orange_book: Focusing on AI , Math & Computer Graphics
-- 🔬: a sophomore in BJUT
-- 🌏: Founder of Codiverse（a wechat planet）
+- 🔬: a Junior student in Beijing University of Technology
+- 🌏: Founder of Open-BJUT
 - :meat_on_bone: BBQ lover
 
 <div style="display:flex; flex-wrap:wrap; height: 200px;">
