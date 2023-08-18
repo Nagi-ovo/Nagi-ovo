@@ -1,5 +1,5 @@
 ### Hi there, Im Jesse Zhang👋
-- :orange_book: Focusing on AI , Math & Computer Graphics
+- :orange_book: Focusing on AI & Math 
 - 🔬: a Junior student in Beijing University of Technology
 - 🌏: Founder of Open-BJUT
 - :meat_on_bone: BBQ lover
