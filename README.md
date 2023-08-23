@@ -2,7 +2,7 @@
 - :orange_book: Focusing on AI & Math 
 - 🔬: a Junior student in Beijing University of Technology
 - 😊: Graduated from [pkuschool](https://www.pkuschool.edu.cn/) (the Affiliated High School of Peking University).
-- 🌏: Founder of Open-BJUT
+- 🌏: Founder of [Open-BJUT](https://github.com/Open-BJUT)
 - :meat_on_bone: BBQ lover
 
 ### My preferences:
