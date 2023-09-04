@@ -1,5 +1,5 @@
 ### Hi there, Im Jesse Zhang👋
-- :orange_book: Focusing on AI & Math 
+- :orange_book: Major in Artificial Intelligence
 - 🔬: a Junior student in Beijing University of Technology
 - 😊: Graduated from [pkuschool](https://www.pkuschool.edu.cn/) (the Affiliated High School of Peking University).
 - 🌏: Founder of [Open-BJUT](https://github.com/Open-BJUT)
