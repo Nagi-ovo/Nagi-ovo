@@ -63,5 +63,9 @@ Windows                  11 hrs 21 mins      ███████████�
  Last Updated on 06/09/2023 16:16:22 UTC
 <!--END_SECTION:waka-->
 
+<div align="center">
+  <img src="/assets/gif.webp" width="1000" height="600">
+</div>
+
 
 
