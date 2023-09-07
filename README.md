@@ -64,7 +64,7 @@ Windows                  11 hrs 21 mins      ███████████�
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img src="/assets/gif.webp" width="1000" height="600">
+  <img src="/assets/gif.webp" width="800" height="480">
 </div>
 
 
