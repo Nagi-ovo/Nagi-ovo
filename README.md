@@ -16,7 +16,7 @@
 
 <div style="display:flex; flex-wrap:wrap; height: 200px;">
   <img height="170" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/top-langs/?username=Nagi-ovo&hide=css,scss,html,java,typescript&layout=compact&card_width=345&card_height=400" alt="Nagi-ovo's Language stats">
-  <img height="170" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=radical" alt="Nagi's GitHub stats">
+  <img height="170" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=radical&orgs=Open-BJUT" alt="Nagi's GitHub stats">
 </div>
 
 ### I'm recently working on:</a>
@@ -32,7 +32,7 @@
   <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=ytzfhqs&repo=AAAMLP-CN&show_owner=true" alt="ytzfhqs/AAAMLP-CN">
 </a>  
 <a href="https://github.com/Nagi-ovo/Cherno-CPP-Notes">
-  <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=Cherno-CPP-Notes" alt="Nagi-ovo/Cherno-CPP-Notes">
+  <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=Cherno-CPP-Notes"  alt="Nagi-ovo/Cherno-CPP-Notes">
 </a>  
 </div>
 
