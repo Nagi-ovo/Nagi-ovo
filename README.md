@@ -28,6 +28,12 @@
 <a href="https://github.com/Nagi-ovo/EZ4STU">
   <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=EZ4STU" alt="EZ4STU">
 </a>  
+<a href="https://github.com/ytzfhqs/AAAMLP-CN">
+  <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=ytzfhqs&repo=AAAMLP-CN&show_owner=true" alt="ytzfhqs/AAAMLP-CN">
+</a>  
+<a href="https://github.com/Nagi-ovo/Cherno-CPP-Notes">
+  <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=Cherno-CPP-Notes" alt="Nagi-ovo/Cherno-CPP-Notes">
+</a>  
 </div>
 
 <br />
