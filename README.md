@@ -1,9 +1,16 @@
-### Hi there, Im Jesse Zhang👋
-- :orange_book: Major in Artificial Intelligence
-- 🔬: a Junior student in Beijing University of Technology
-- 😊: Graduated from [pkuschool](https://www.pkuschool.edu.cn/) (the Affiliated High School of Peking University).
-- 🌏: Founder of [Open-BJUT](https://github.com/Open-BJUT)
-- :meat_on_bone: BBQ lover
+<div align="center">
+  <img src="/assets/gif.webp" style="max-width: 100%; height: auto;">
+
+ ### Hi there, Im Jesse Zhang👋
+  :orange_book: Major in Artificial Intelligence
+  
+  🔬: a Junior student in Beijing University of Technology
+  
+  😊: Graduated from [pkuschool](https://www.pkuschool.edu.cn/) (the Affiliated High School of Peking University).
+  
+  🌏: Founder of [Open-BJUT](https://github.com/Open-BJUT)
+  
+  :meat_on_bone: BBQ lover
 
 ### My preferences:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -63,9 +70,12 @@ Windows                  17 hrs 4 mins       ███████████�
  Last Updated on 08/09/2023 16:15:33 UTC
 <!--END_SECTION:waka-->
 
-<div align="center">
-  <img src="/assets/gif.webp" style="max-width: 100%; height: auto;">
 </div>
+
+
+
+
+
 
 
 
