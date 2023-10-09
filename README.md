@@ -4,11 +4,12 @@
    ### Hi there, Im Jesse Zhang👋
    
   <div align="left">
-    <p>:orange_book: Major in Artificial Intelligence</p>
+    <p>:orange_book::Major in Artificial Intelligence</p>
     <p>🔬: a Junior student in Beijing University of Technology</p>
     <p>😊: Graduated from <a href="https://www.pkuschool.edu.cn/">pkuschool</a> (the Affiliated High School of Peking University).</p>
     <p>🌏: Founder of <a href="https://github.com/Open-BJUT">Open-BJUT</a></p>
-    <p>:meat_on_bone: BBQ lover</p>
+    <p>:meat_on_bone:: BBQ lover</p>
+    <p>🦀: Currently learning Rust~
 </div>
 
   
