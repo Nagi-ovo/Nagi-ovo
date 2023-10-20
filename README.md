@@ -5,11 +5,11 @@
    
   <div align="left">
     <p>:orange_book::Major in Artificial Intelligence</p>
-    <p>🔬: a Junior student in Beijing University of Technology</p>
     <p>😊: Graduated from <a href="https://www.pkuschool.edu.cn/">pkuschool</a> (the Affiliated High School of Peking University).</p>
     <p>🌏: Founder of <a href="https://github.com/Open-BJUT">Open-BJUT</a></p>
     <p>:meat_on_bone:: BBQ lover</p>
     <p>🦀: Currently learning Rust~</p>
+    <p>🤝: Eager to make new friends in GitHub !</p>
 </div>
 
   
