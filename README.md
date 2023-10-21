@@ -9,7 +9,7 @@
     <p>🌏: Founder of <a href="https://github.com/Open-BJUT">Open-BJUT</a></p>
     <p>:meat_on_bone:: BBQ lover</p>
     <p>🦀: Currently learning Rust~</p>
-    <p>🤝: Eager to make new friends in GitHub !</p>
+    <p>🤝: Eager to make new friends on GitHub !</p>
 </div>
 
   
