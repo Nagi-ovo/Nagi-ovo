@@ -6,7 +6,7 @@
   <div align="left">
     <p>:orange_book::Major in Artificial Intelligence</p>
     <p>😊: Graduated from <a href="https://www.pkuschool.edu.cn/">pkuschool</a> (the Affiliated High School of Peking University).</p>
-    <p>🌏: Founder of <a href="https://github.com/Open-BJUT">Open-BJUT</a></p>
+    <p>🌏: Founder of <a href="https://github.com/Open-BJUT">bjut-swift</a></p>
     <p>:meat_on_bone:: BBQ lover</p>
     <p>🦀: Currently learning Rust~</p>
     <p>🤝: Eager to make new friends on GitHub !</p>
