@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/gif.webp" style="max-width: 100%; height: auto;">
+  <!-- <img src="/assets/gif.webp" style="max-width: 100%; height: auto;"> -->
 
    ### Hi there, Im Jesse Zhang👋
    
