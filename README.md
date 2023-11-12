@@ -30,20 +30,21 @@
 
 ### I'm recently working on:</a>
 
- <div>
-<a href="https://github.com/Open-BJUT/BJUT-Helper">
-  <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=BJUT-Helper" alt="BJUT-Helper">
-</a>
-<a href="https://github.com/Nagi-ovo/EZ4STU">
-  <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=EZ4STU" alt="EZ4STU">
-</a>  
-<a href="https://github.com/ytzfhqs/AAAMLP-CN">
-  <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=ytzfhqs&repo=AAAMLP-CN&show_owner=true" alt="ytzfhqs/AAAMLP-CN">
-</a>  
-<a href="https://github.com/Nagi-ovo/Cherno-CPP-Notes">
-  <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=Cherno-CPP-Notes"  alt="Nagi-ovo/Cherno-CPP-Notes">
-</a>  
+ <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <a href="https://github.com/Open-BJUT/BJUT-Helper" style="flex: 0 0 48%;">
+    <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=BJUT-Helper" alt="BJUT-Helper">
+  </a>
+  <a href="https://github.com/Nagi-ovo/EZ4STU" style="flex: 0 0 48%;">
+    <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=EZ4STU" alt="EZ4STU">
+  </a>  
+  <a href="https://github.com/ytzfhqs/AAAMLP-CN" style="flex: 0 0 48%;">
+    <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=ytzfhqs&repo=AAAMLP-CN&show_owner=true" alt="ytzfhqs/AAAMLP-CN">
+  </a>  
+  <a href="https://github.com/Nagi-ovo/Cherno-CPP-Notes" style="flex: 0 0 48%;">
+    <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=Cherno-CPP-Notes"  alt="Nagi-ovo/Cherno-CPP-Notes">
+  </a>  
 </div>
+
 
 <br />
 
