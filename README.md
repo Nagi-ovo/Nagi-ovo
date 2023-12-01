@@ -1,8 +1,7 @@
 <div align="center">
   <!-- <img src="/assets/gif.webp" style="max-width: 100%; height: auto;"> -->
-
+<img src="/assets/nagi.gif" style="max-width: 100%; height: auto;">
 <img src="https://thatwebsite.oss-cn-hongkong.aliyuncs.com/nagi.gif" width="300" height="200" />
-
 
 <!--
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
