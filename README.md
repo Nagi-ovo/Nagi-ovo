@@ -37,10 +37,12 @@
     <img align="center" src="https://github-readme-stats-git-main-nagi-ovo.vercel.app/api/pin/?username=Nagi-ovo&repo=Cherno-CPP-Notes"  alt="Nagi-ovo/Cherno-CPP-Notes">
   </a>  
 </div>
+
+![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2025%20mins-blue)
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2025%20mins-blue)
+
 
 📊 **This Week I Spent My Time On** 
 
