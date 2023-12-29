@@ -9,7 +9,7 @@
     <tr>
       <td align="left">
         <h3>Hi there, I'm Jesse Zhang👋</h3>
-        <p>:orange_book:: Major in Artificial Intelligence</p>
+        <p>:orange_book:: an undergraduate majoring in AI</p>
         <p>😊: Graduated from <a href="https://www.pkuschool.edu.cn/">pkuschool</a> (the Affiliated High School of Peking University).</p>
         <p>:meat_on_bone:: BBQ lover</p>
         <p>🦀: Currently learning Rust~</p>
