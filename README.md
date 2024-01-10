@@ -29,7 +29,7 @@
 -->
 
 <div style="display:flex; flex-wrap:wrap; height: 200px;">
-  <img height="170" src="https://gh-readme-stats-nagi.vercel.app/api/top-langs/?username=Nagi-ovo&hide=css,scss,html,java,typescript,perl,jupyter%20notebook&layout=compact&langs_count=8&card_width=400" alt="Nagi-ovo's Language stats">
+  <img height="170" src="https://gh-readme-stats-nagi.vercel.app/api/top-langs/?username=Nagi-ovo&hide=css,scss,html,java,perl,jupyter%20notebook&layout=compact&langs_count=8&card_width=400" alt="Nagi-ovo's Language stats">
   <img height="170" src="https://gh-readme-stats-nagi.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=transparent&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Nagi's GitHub stats">
 </div>
 
