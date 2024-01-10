@@ -13,6 +13,7 @@
         <p>😊: Graduated from <a href="https://www.pkuschool.edu.cn/">pkuschool</a> (the Affiliated High School of Peking University).</p>
         <p>:meat_on_bone:: BBQ lover</p>
         <p>🦀: Currently learning Rust~</p>
+        <p>💼: Looking for an internship</p>
         <p>🤝: Eager to make new friends on GitHub !</p>
       </td>
     </tr>
