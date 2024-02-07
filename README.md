@@ -4,6 +4,21 @@
 <img width="1000" src="/assets/nagi.gif">
 -->
 
+## Hi there, I'm Jesse Zhang👋
+
+:orange_book:: an undergraduate majoring in AI
+
+😊: Graduated from <a href="https://www.pkuschool.edu.cn/">pkuschool</a> (the Affiliated High School of Peking University).
+
+:meat_on_bone:: BBQ lover
+
+🦀: Currently learning Rust~
+
+💼: Looking for an internship
+
+🤝: Eager to make new friends on GitHub !
+        
+<!--
 <div align="center">
 <table>
     <tr>
@@ -18,6 +33,7 @@
       </td>
     </tr>
   </table>
+-->
 
 <!--
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -29,9 +45,12 @@
  <!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 -->
 
+<img height="170" src="https://gh-readme-stats-nagi.vercel.app/api/top-langs/?username=Nagi-ovo&hide=css,scss,html,java,perl,jupyter%20notebook&layout=compact&langs_count=8&card_width=400" alt="Nagi-ovo's Language stats">
+
 <div style="display:flex; flex-wrap:wrap; height: 200px;">
-  <img height="170" src="https://gh-readme-stats-nagi.vercel.app/api/top-langs/?username=Nagi-ovo&hide=css,scss,html,java,perl,jupyter%20notebook&layout=compact&langs_count=8&card_width=400" alt="Nagi-ovo's Language stats">
+  <!--
   <img height="170" src="https://gh-readme-stats-nagi.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=transparent&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Nagi's GitHub stats">
+  -->
 </div>
 
 <!--
