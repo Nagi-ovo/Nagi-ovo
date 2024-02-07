@@ -1,39 +1,15 @@
-<!--
-  <img src="/assets/gif.webp" style="max-width: 100%; height: auto;"> 
  <img width="1000" src="/assets/nagi.gif" style="max-width: 150%; height: auto;"> 
-<img width="1000" src="/assets/nagi.gif">
--->
 
-## Hi there, I'm Jesse Zhang👋
+Hi there 👋  I'm an junior student majoring in AI at Beiing University of Technology, diving into LLM, Neural Networks and Rust, and seeking an internship. Let's connect on GitHub!
 
-:orange_book:: an undergraduate majoring in AI
+<a href="https://github.com/nagi-ovo?tab=repositories">
+  <img align="right" src="https://gh-readme-stats-nagi.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=transparent&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="50%" />
+</a>
 
-😊: Graduated from <a href="https://www.pkuschool.edu.cn/">pkuschool</a> (the Affiliated High School of Peking University).
+Feel free to contact me through Twitter or gh-issue.
 
-🦀: Currently learning Rust~
-
-💼: Looking for an internship
-
-:meat_on_bone:: BBQ lover
-
-🤝: Eager to make new friends on GitHub !
-        
-<!--
-<div align="center">
-<table>
-    <tr>
-      <td align="left">
-        <h3>Hi there, I'm Jesse Zhang👋</h3>
-        <p>:orange_book:: an undergraduate majoring in AI</p>
-        <p>😊: Graduated from <a href="https://www.pkuschool.edu.cn/">pkuschool</a> (the Affiliated High School of Peking University).</p>
-        <p>:meat_on_bone:: BBQ lover</p>
-        <p>🦀: Currently learning Rust~</p>
-        <p>💼: Looking for an internship</p>
-        <p>🤝: Eager to make new friends on GitHub !</p>
-      </td>
-    </tr>
-  </table>
--->
+- [Blog](https://nagi.fun)
+- [Twitter](https://twitter.com/Nag1ovo)
 
 <!--
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -45,10 +21,10 @@
  <!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 -->
 
-<img height="170" src="https://gh-readme-stats-nagi.vercel.app/api/top-langs/?username=Nagi-ovo&hide=css,scss,html,java,perl,jupyter%20notebook&layout=compact&langs_count=8&card_width=400" alt="Nagi-ovo's Language stats">
 
 <div style="display:flex; flex-wrap:wrap; height: 200px;">
   <!--
+  <img height="170" src="https://gh-readme-stats-nagi.vercel.app/api/top-langs/?username=Nagi-ovo&hide=css,scss,html,java,perl,jupyter%20notebook&layout=compact&langs_count=8&card_width=400" alt="Nagi-ovo's Language stats">
   <img height="170" src="https://gh-readme-stats-nagi.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=transparent&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Nagi's GitHub stats">
   -->
 </div>
