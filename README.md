@@ -10,11 +10,11 @@
 
 😊: Graduated from <a href="https://www.pkuschool.edu.cn/">pkuschool</a> (the Affiliated High School of Peking University).
 
-:meat_on_bone:: BBQ lover
-
 🦀: Currently learning Rust~
 
 💼: Looking for an internship
+
+:meat_on_bone:: BBQ lover
 
 🤝: Eager to make new friends on GitHub !
         
