@@ -1,6 +1,6 @@
  <img width="1000" src="/assets/nagi.gif" style="max-width: 150%; height: auto;"> 
 
-Hi there 👋  I'm an junior student majoring in AI at Beiing University of Technology, diving into LLM, Neural Networks and Rust, and seeking an internship. Let's connect on GitHub!
+Hi there 👋  I'm an junior student majoring in AI at Beiing University of Technology, diving into LLM, Neural Networks and Rust/C++, and seeking an internship. Let's connect on GitHub!
 
 <a href="https://github.com/nagi-ovo?tab=repositories">
   <img align="right" src="https://gh-readme-stats-nagi.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=transparent&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="50%" />
