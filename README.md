@@ -4,7 +4,9 @@
   <img style="max-width: 450px" align="right" src="https://gh-readme-stats-nagi.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=transparent&hide_rank=true&hide_title=true&count_private=true&role=OWNER"/>
 </a>
 
-Hi there 👋  I'm an junior student majoring in AI at Beiing University of Technology, diving into LLM, Neural Networks and Rust/C++, and seeking an internship. Let's connect on GitHub!
+Hi there 👋  I'm an junior student majoring in AI at Beiing University of Technology, diving into LLM, Neural Networks and Rust/C++, and enjoying my first internship🥹
+
+Let's connect on GitHub!
 
 Feel free to contact me through Twitter or gh-issue.
 
