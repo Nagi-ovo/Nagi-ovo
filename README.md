@@ -1,4 +1,4 @@
-<img width="1000" src="/assets/nagi.gif" style="max-width: 150%; height: auto;"> 
+<!--<img width="1000" src="/assets/nagi.gif" style="max-width: 150%; height: auto;">-->
 
 <a href="https://github.com/nagi-ovo?tab=repositories">
   <img style="max-width: 450px" align="right" src="https://gh-readme-stats-nagi.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=transparent&hide_rank=true&hide_title=true&count_private=true&role=OWNER"/>
