@@ -8,10 +8,7 @@ Hi there 👋  I'm an junior student majoring in AI at Beiing University of Tech
 
 Let's connect on GitHub!
 
-Feel free to contact me through Twitter or gh-issue.
-
-- [Blog](https://nagi.fun)
-- [Twitter](https://twitter.com/Nag1ovo)
+Check out [my blog](https://nagi.fun) for more info!
 
 <!--
 ORGANIZATION_MEMBER,COLLABORATOR
