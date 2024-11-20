@@ -12,7 +12,7 @@ Let's connect on GitHub!
 
 **Looking for RA/Research Intern opportunities in the fields of NLP & RL!**
 
-Check out [my blog](https://nagi.fun) for more info!
+Check out [my blog](https://blog.nagi.fun) for more info!
 
 <!--
 ORGANIZATION_MEMBER,COLLABORATOR
