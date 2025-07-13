@@ -10,7 +10,7 @@ I'm an senior student majoring in AI at Beiing University of Technology, diving 
 
 Let's connect on GitHub!
 
-**Looking for RA/Research Intern opportunities in the field of LLM Post-Training!**
+**Looking for RA/Research Intern opportunities!**
 
 Check out [my blog](https://blog.nagi.fun) for more info!
 
