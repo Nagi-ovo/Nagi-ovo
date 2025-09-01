@@ -6,7 +6,7 @@
 
 Hi there 👋  
 
-I'm an senior student majoring in AI at Beiing University of Technology, diving into Neural Networks🥹
+I'm an senior student majoring in AI at Beiing University of Technology, diving into Neural Networks and Robotics🥹
 
 Let's connect on GitHub!
 
