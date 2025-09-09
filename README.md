@@ -6,7 +6,7 @@
 
 Hi there 👋  
 
-I'm an senior student majoring in AI at Beiing University of Technology, diving into Neural Networks and Robotics🥹
+I'm an M.Res. student at Imperial College London, diving into big neural networks and robots 🥹
 
 Let's connect on GitHub!
 
