@@ -6,7 +6,7 @@
 
 Hi there 👋  
 
-I'm an M.Res. student at Imperial College London, diving into big neural networks and humanoid robots! 🥹
+I'm a Master of Research (MRes) student at Imperial College London, diving into big neural networks and humanoid robots! 🥹
 
 Let's connect on GitHub!
 
