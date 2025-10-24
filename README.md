@@ -6,11 +6,11 @@
 
 Hi there 👋  
 
-I'm an M.Res. student at Imperial College London, diving into big neural networks and robotics 🥹
+I'm an M.Res. student at Imperial College London, diving into big neural networks and humanoid robots! 🥹
 
 Let's connect on GitHub!
 
-**Looking for RA/Research Intern opportunities!**
+<!--**Looking for Research Intern opportunities!**-->
 
 Check out [my blog](https://blog.nagi.fun) for more info!
 
