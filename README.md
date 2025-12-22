@@ -4,9 +4,9 @@
   <img style="max-width: 450px" align="right" src="https://gh-readme-stats-nagi.vercel.app/api?username=Nagi-ovo&show_icons=true&theme=transparent&hide_rank=true&hide_title=true&count_private=true&role=OWNER"/>
 </a>
 
-Hi there 👋  
+Hi there <img src='https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets/hi.gif?raw=true' alt='Hi' width="20"/>
 
-I'm a Master of Research (MRes) student at Imperial College London, diving into big neural networks and humanoid robots! 🥹
+I'm a Master of Research (MRes) student at Imperial College London, diving into RL and humanoid robots!
 
 Let's connect on GitHub!
 
