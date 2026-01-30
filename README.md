@@ -12,7 +12,7 @@ Let's connect on GitHub!
 
 <!--**Looking for Research Intern opportunities!**-->
 
-Check out [my blog](https://blog.nagi.fun) for more info!
+Check out [my homepage](https://nagi.fun) for more info!
 
 <!--
 ORGANIZATION_MEMBER,COLLABORATOR
