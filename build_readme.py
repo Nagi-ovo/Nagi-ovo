@@ -43,10 +43,7 @@ def fetch_blog_posts():
 
 
 def fetch_releases():
-    token = os.environ.get("GH_TOKEN", "")
     headers = {"Accept": "application/vnd.github+json"}
-    if token:
-        headers["Authorization"] = f"Bearer {token}"
 
     releases = []
     for repo in REPOS_WITH_RELEASES:
