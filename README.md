@@ -30,6 +30,7 @@ Check out [my homepage](https://nagi.fun) for more info!
 **Recent Blog Posts**
 
 <!-- blog starts -->
+• [成为榜样而不是偶像。 / Be a Role Model, Not an Idol.](https://blog.nagi.fun/role-model) - 2026-03-22<br>• [去做机器人！AI本科毕业后的年度总结 / Let's Build Robots! Annual Review After Graduating from AI Undergrad](https://blog.nagi.fun/2025-memo) - 2026-01-05<br>• [从头写一个博客：我的 Passion 还在吗？ / Building a Blog from Scratch: Do I Still Have the Passion?](https://blog.nagi.fun/sao-blog) - 2026-01-01
 <!-- blog ends -->
 
 </td>
