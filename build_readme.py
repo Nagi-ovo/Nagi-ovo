@@ -4,7 +4,7 @@ import os
 from urllib.request import urlopen, Request
 from datetime import datetime
 
-BLOG_API = "https://nagi.fun/api/posts"
+BLOG_API = "https://blog.nagi.fun/api/posts"
 GITHUB_USER = "Nagi-ovo"
 REPOS_WITH_RELEASES = ["gemini-voyager", "shiori-releases"]
 MAX_POSTS = 3
@@ -34,7 +34,7 @@ def fetch_blog_posts():
             title_cn = post["title"]
             title_en = post["titleEn"]
             date = post["date"][:10]
-            url = f"https://nagi.fun/{post['slug']}"
+            url = f"https://blog.nagi.fun/{post['slug']}"
             results.append(f"• [{title_cn} / {title_en}]({url}) - {date}")
         return "<br>".join(results)
     except Exception as e:
