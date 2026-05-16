@@ -55,7 +55,7 @@ def fetch_releases():
                 f"https://api.github.com/repos/{GITHUB_USER}/{repo}/releases",
                 headers=headers,
             )
-            for release in data[:5]:
+            for release in data[:2]:
                 tag = release["tag_name"]
                 url = release["html_url"]
                 date = release["published_at"][:10]
