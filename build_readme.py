@@ -56,8 +56,6 @@ def fetch_releases():
                 headers=headers,
             )
             for release in data[:5]:
-                if release.get("prerelease"):
-                    continue
                 tag = release["tag_name"]
                 url = release["html_url"]
                 date = release["published_at"][:10]
