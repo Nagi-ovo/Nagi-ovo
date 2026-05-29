@@ -21,7 +21,7 @@ Check out [my homepage](https://nagi.fun) for more info!
 **Latest Releases**
 
 <!-- releases starts -->
-• [gemini-voyager v1.4.6](https://github.com/Nagi-ovo/gemini-voyager/releases/tag/v1.4.6) - 2026-05-21<br>• [gemini-voyager v1.4.5](https://github.com/Nagi-ovo/gemini-voyager/releases/tag/v1.4.5) - 2026-05-19<br>• [shiori-releases v0.1.12](https://github.com/Nagi-ovo/shiori-releases/releases/tag/v0.1.12) - 2026-05-19
+• [shiori-releases v0.1.13](https://github.com/Nagi-ovo/shiori-releases/releases/tag/v0.1.13) - 2026-05-29<br>• [gemini-voyager v1.4.7](https://github.com/Nagi-ovo/gemini-voyager/releases/tag/v1.4.7) - 2026-05-28<br>• [gemini-voyager v1.4.6](https://github.com/Nagi-ovo/gemini-voyager/releases/tag/v1.4.6) - 2026-05-21
 <!-- releases ends -->
 
 </td>
