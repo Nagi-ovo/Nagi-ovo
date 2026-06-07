@@ -10,7 +10,7 @@ REPOS_WITH_RELEASES = ["gemini-voyager", "shiori-releases"]
 PROFILE_ASSET_BASE = "https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets"
 RELEASE_REPO_META = {
     "gemini-voyager": {
-        "name": "Gemini Voyager",
+        "name": "Voyager",
         "logo": f"{PROFILE_ASSET_BASE}/release-gemini-voyager.png?raw=true",
     },
     "shiori-releases": {
