@@ -21,7 +21,7 @@ Check out [my homepage](https://nagi.fun) for more info!
 **Latest Releases**
 
 <!-- releases starts -->
-• [gemini-voyager v1.4.8](https://github.com/Nagi-ovo/gemini-voyager/releases/tag/v1.4.8) - 2026-06-06<br>• [shiori-releases v0.1.17](https://github.com/Nagi-ovo/shiori-releases/releases/tag/v0.1.17) - 2026-06-05<br>• [shiori-releases v0.1.16](https://github.com/Nagi-ovo/shiori-releases/releases/tag/v0.1.16) - 2026-05-31
+<img src="https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets/release-shiori.png?raw=true" alt="Shiori logo" width="18" height="18" align="absmiddle" />&nbsp;[Shiori v0.1.18](https://github.com/Nagi-ovo/shiori-releases/releases/tag/v0.1.18) - 2026-06-07<br><img src="https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets/release-gemini-voyager.png?raw=true" alt="Gemini Voyager logo" width="18" height="18" align="absmiddle" />&nbsp;[Gemini Voyager v1.4.8](https://github.com/Nagi-ovo/gemini-voyager/releases/tag/v1.4.8) - 2026-06-06<br><img src="https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets/release-shiori.png?raw=true" alt="Shiori logo" width="18" height="18" align="absmiddle" />&nbsp;[Shiori v0.1.17](https://github.com/Nagi-ovo/shiori-releases/releases/tag/v0.1.17) - 2026-06-05
 <!-- releases ends -->
 
 </td>

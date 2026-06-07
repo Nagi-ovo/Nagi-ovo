@@ -7,6 +7,17 @@ from datetime import datetime
 BLOG_API = "https://blog.nagi.fun/api/posts"
 GITHUB_USER = "Nagi-ovo"
 REPOS_WITH_RELEASES = ["gemini-voyager", "shiori-releases"]
+PROFILE_ASSET_BASE = "https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets"
+RELEASE_REPO_META = {
+    "gemini-voyager": {
+        "name": "Gemini Voyager",
+        "logo": f"{PROFILE_ASSET_BASE}/release-gemini-voyager.png?raw=true",
+    },
+    "shiori-releases": {
+        "name": "Shiori",
+        "logo": f"{PROFILE_ASSET_BASE}/release-shiori.png?raw=true",
+    },
+}
 MAX_POSTS = 3
 MAX_RELEASES = 3
 
@@ -67,10 +78,26 @@ def fetch_releases():
 
     releases.sort(key=lambda r: r["date"], reverse=True)
     md = "<br>".join(
-        f"• [{r['repo']} {r['tag']}]({r['url']}) - {r['date']}"
+        format_release(r)
         for r in releases[:MAX_RELEASES]
     )
     return md
+
+
+def format_release(release):
+    meta = RELEASE_REPO_META.get(release["repo"], {})
+    name = meta.get("name", release["repo"])
+    logo = meta.get("logo")
+
+    if logo:
+        icon = (
+            f'<img src="{logo}" alt="{name} logo" width="18" height="18" '
+            'align="absmiddle" />&nbsp;'
+        )
+    else:
+        icon = "• "
+
+    return f"{icon}[{name} {release['tag']}]({release['url']}) - {release['date']}"
 
 
 if __name__ == "__main__":
