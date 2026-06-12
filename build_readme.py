@@ -21,7 +21,7 @@ RELEASE_REPO_META = {
 }
 MAX_POSTS = 3
 MAX_RELEASES = 3
-BLOG_COVER_WIDTH = 88
+BLOG_COVER_WIDTH = 180
 
 
 def github_headers():
