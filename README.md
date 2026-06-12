@@ -14,18 +14,13 @@ Check out [my homepage](https://nagi.fun) for more info!
 
 <br clear="right"/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 **Latest Releases**
 
 <!-- releases starts -->
 <img src="https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets/release-gemini-voyager.png?raw=true" alt="Voyager logo" width="18" height="18" align="absmiddle" />&nbsp;[Voyager v1.4.9](https://github.com/Nagi-ovo/gemini-voyager/releases/tag/v1.4.9) - 2026-06-10
 <!-- releases ends -->
 
-</td>
-<td width="50%" valign="top">
+<br>
 
 **Recent Blog Posts**
 
@@ -36,7 +31,3 @@ Check out [my homepage](https://nagi.fun) for more info!
 <tr><td width="88" valign="top"><a href="https://blog.nagi.fun/sao-blog"><img src="https://blog.nagi.fun/assets/images/posts/2026/sao-blog/sao.webp" alt="从头写一个博客：我的 Passion 还在吗？ cover" width="88" /></a></td><td valign="top"><a href="https://blog.nagi.fun/sao-blog">从头写一个博客：我的 Passion 还在吗？</a><br><sub>Building a Blog from Scratch: Do I Still Have the Passion? - 2026-01-01</sub></td></tr>
 </table>
 <!-- blog ends -->
-
-</td>
-</tr>
-</table>
