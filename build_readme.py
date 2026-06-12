@@ -1,10 +1,11 @@
 import re
 import json
 import os
+from html import escape
 from urllib.request import urlopen, Request
-from datetime import datetime
 
-BLOG_API = "https://blog.nagi.fun/api/posts"
+BLOG_BASE = "https://blog.nagi.fun"
+BLOG_API = f"{BLOG_BASE}/api/posts"
 GITHUB_USER = "Nagi-ovo"
 REPOS_WITH_RELEASES = ["gemini-voyager", "shiori-releases"]
 PROFILE_ASSET_BASE = "https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets"
@@ -20,12 +21,29 @@ RELEASE_REPO_META = {
 }
 MAX_POSTS = 3
 MAX_RELEASES = 3
+BLOG_COVER_WIDTH = 88
+
+
+def github_headers():
+    headers = {
+        "Accept": "application/vnd.github+json",
+        "User-Agent": f"{GITHUB_USER}-profile-readme",
+    }
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+        headers["X-GitHub-Api-Version"] = "2022-11-28"
+    return headers
+
+
+def fetch_text(url, headers=None):
+    req = Request(url, headers=headers or {})
+    with urlopen(req, timeout=15) as resp:
+        return resp.read().decode()
 
 
 def fetch_json(url, headers=None):
-    req = Request(url, headers=headers or {})
-    with urlopen(req, timeout=15) as resp:
-        return json.loads(resp.read().decode())
+    return json.loads(fetch_text(url, headers=headers))
 
 
 def replace_chunk(content, marker, chunk):
@@ -37,42 +55,86 @@ def replace_chunk(content, marker, chunk):
     return pattern.sub(replacement, content)
 
 
+def absolute_blog_url(path):
+    if not path:
+        return None
+    if path.startswith(("https://", "http://")):
+        return path
+    if path.startswith("/"):
+        return f"{BLOG_BASE}{path}"
+    return f"{BLOG_BASE}/{path}"
+
+
+def blog_cover_url(post):
+    for key in ("cover", "coverUrl", "image", "imageUrl"):
+        cover = absolute_blog_url(post.get(key))
+        if cover:
+            return cover
+
+    return None
+
+
 def fetch_blog_posts():
     try:
         posts = fetch_json(BLOG_API)
-        results = []
+        rows = []
         for post in posts[:MAX_POSTS]:
             title_cn = post["title"]
             title_en = post["titleEn"]
             date = post["date"][:10]
-            url = f"https://blog.nagi.fun/{post['slug']}"
-            results.append(f"• [{title_cn} / {title_en}]({url}) - {date}")
-        return "<br>".join(results)
+            url = f"{BLOG_BASE}/{post['slug']}"
+            rows.append(format_blog_post(title_cn, title_en, url, date, blog_cover_url(post)))
+        return "<table>\n{}\n</table>".format("\n".join(rows))
     except Exception as e:
         print(f"Error fetching blog posts: {e}")
         return ""
 
 
-def fetch_releases():
-    headers = {"Accept": "application/vnd.github+json"}
+def format_blog_post(title_cn, title_en, url, date, cover):
+    title_cn_html = escape(title_cn, quote=False)
+    title_en_html = escape(title_en, quote=False)
+    url_html = escape(url, quote=True)
+    date_html = escape(date, quote=False)
 
+    cover_cell = ""
+    if cover:
+        cover_html = escape(cover, quote=True)
+        alt_html = escape(f"{title_cn} cover", quote=True)
+        cover_cell = (
+            f'<td width="{BLOG_COVER_WIDTH}" valign="top">'
+            f'<a href="{url_html}">'
+            f'<img src="{cover_html}" alt="{alt_html}" '
+            f'width="{BLOG_COVER_WIDTH}" />'
+            "</a></td>"
+        )
+
+    return (
+        "<tr>"
+        f"{cover_cell}"
+        f'<td valign="top"><a href="{url_html}">{title_cn_html}</a><br>'
+        f"<sub>{title_en_html} - {date_html}</sub></td>"
+        "</tr>"
+    )
+
+
+def fetch_releases():
     releases = []
     for repo in REPOS_WITH_RELEASES:
         try:
             data = fetch_json(
                 f"https://api.github.com/repos/{GITHUB_USER}/{repo}/releases",
-                headers=headers,
+                headers=github_headers(),
             )
-            for release in data[:2]:
-                tag = release["tag_name"]
-                url = release["html_url"]
-                date = release["published_at"][:10]
-                releases.append({
-                    "repo": repo,
-                    "tag": tag,
-                    "url": url,
-                    "date": date,
-                })
+            release = next((item for item in data if not item.get("draft")), None)
+            if not release:
+                continue
+            date = (release.get("published_at") or release.get("created_at") or "")[:10]
+            releases.append({
+                "repo": repo,
+                "tag": release["tag_name"],
+                "url": release["html_url"],
+                "date": date,
+            })
         except Exception as e:
             print(f"Error fetching releases for {repo}: {e}")
 
