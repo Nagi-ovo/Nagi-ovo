@@ -125,7 +125,14 @@ def fetch_releases():
                 f"https://api.github.com/repos/{GITHUB_USER}/{repo}/releases",
                 headers=github_headers(),
             )
-            release = next((item for item in data if not item.get("draft")), None)
+            release = next(
+                (
+                    item
+                    for item in data
+                    if not item.get("draft") and not item.get("prerelease")
+                ),
+                None,
+            )
             if not release:
                 continue
             date = (release.get("published_at") or release.get("created_at") or "")[:10]
