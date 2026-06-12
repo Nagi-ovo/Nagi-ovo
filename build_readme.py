@@ -22,6 +22,8 @@ RELEASE_REPO_META = {
 MAX_POSTS = 3
 MAX_RELEASES = 3
 BLOG_COVER_WIDTH = 180
+GITHUB_PAGE_SIZE = 100
+MAX_RELEASE_PAGES = 5
 
 
 def github_headers():
@@ -121,18 +123,7 @@ def fetch_releases():
     releases = []
     for repo in REPOS_WITH_RELEASES:
         try:
-            data = fetch_json(
-                f"https://api.github.com/repos/{GITHUB_USER}/{repo}/releases",
-                headers=github_headers(),
-            )
-            release = next(
-                (
-                    item
-                    for item in data
-                    if not item.get("draft") and not item.get("prerelease")
-                ),
-                None,
-            )
+            release = fetch_latest_stable_release(repo)
             if not release:
                 continue
             date = (release.get("published_at") or release.get("created_at") or "")[:10]
@@ -151,6 +142,30 @@ def fetch_releases():
         for r in releases[:MAX_RELEASES]
     )
     return md
+
+
+def fetch_latest_stable_release(repo):
+    for page in range(1, MAX_RELEASE_PAGES + 1):
+        data = fetch_json(
+            f"https://api.github.com/repos/{GITHUB_USER}/{repo}/releases"
+            f"?per_page={GITHUB_PAGE_SIZE}&page={page}",
+            headers=github_headers(),
+        )
+        if not data:
+            return None
+
+        release = next(
+            (
+                item
+                for item in data
+                if not item.get("draft") and not item.get("prerelease")
+            ),
+            None,
+        )
+        if release:
+            return release
+
+    return None
 
 
 def format_release(release):
