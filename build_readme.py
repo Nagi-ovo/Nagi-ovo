@@ -13,10 +13,12 @@ RELEASE_REPO_META = {
     "gemini-voyager": {
         "name": "Voyager",
         "logo": f"{PROFILE_ASSET_BASE}/release-gemini-voyager.png?raw=true",
+        "include_prereleases": False,
     },
     "shiori-releases": {
         "name": "Shiori",
         "logo": f"{PROFILE_ASSET_BASE}/release-shiori.png?raw=true",
+        "include_prereleases": True,
     },
 }
 MAX_POSTS = 3
@@ -123,7 +125,11 @@ def fetch_releases():
     releases = []
     for repo in REPOS_WITH_RELEASES:
         try:
-            release = fetch_latest_stable_release(repo)
+            meta = RELEASE_REPO_META.get(repo, {})
+            release = fetch_latest_release(
+                repo,
+                include_prereleases=meta.get("include_prereleases", False),
+            )
             if not release:
                 continue
             date = (release.get("published_at") or release.get("created_at") or "")[:10]
@@ -144,7 +150,7 @@ def fetch_releases():
     return md
 
 
-def fetch_latest_stable_release(repo):
+def fetch_latest_release(repo, include_prereleases=False):
     for page in range(1, MAX_RELEASE_PAGES + 1):
         data = fetch_json(
             f"https://api.github.com/repos/{GITHUB_USER}/{repo}/releases"
@@ -158,7 +164,8 @@ def fetch_latest_stable_release(repo):
             (
                 item
                 for item in data
-                if not item.get("draft") and not item.get("prerelease")
+                if not item.get("draft")
+                and (include_prereleases or not item.get("prerelease"))
             ),
             None,
         )
