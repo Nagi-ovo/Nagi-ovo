@@ -17,7 +17,7 @@ Check out [my homepage](https://nagi.fun) for more info!
 **Latest Releases**
 
 <!-- releases starts -->
-<img src="https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets/release-shiori.png?raw=true" alt="Shiori logo" width="18" height="18" align="absmiddle" />&nbsp;[Shiori v0.1.22](https://github.com/Nagi-ovo/shiori-releases/releases/tag/v0.1.22) - 2026-06-15<br><img src="https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets/release-gemini-voyager.png?raw=true" alt="Voyager logo" width="18" height="18" align="absmiddle" />&nbsp;[Voyager v1.4.9](https://github.com/Nagi-ovo/gemini-voyager/releases/tag/v1.4.9) - 2026-06-10
+<img src="https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets/release-shiori.png?raw=true" alt="Shiori logo" width="18" height="18" align="absmiddle" />&nbsp;[Shiori v0.1.23](https://github.com/Nagi-ovo/shiori-releases/releases/tag/v0.1.23) - 2026-06-16<br><img src="https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets/release-gemini-voyager.png?raw=true" alt="Voyager logo" width="18" height="18" align="absmiddle" />&nbsp;[Voyager v1.4.9](https://github.com/Nagi-ovo/gemini-voyager/releases/tag/v1.4.9) - 2026-06-10
 <!-- releases ends -->
 
 <br>
