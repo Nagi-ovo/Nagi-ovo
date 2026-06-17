@@ -7,6 +7,16 @@ from urllib.request import urlopen, Request
 
 BLOG_BASE = "https://blog.nagi.fun"
 BLOG_API = f"{BLOG_BASE}/api/posts"
+# Cloudflare 403s the default "Python-urllib" User-Agent on any request that
+# reaches the edge bot-check (i.e. every cache MISS), so a browser-like UA is
+# required for the cache-busted fetch below.
+BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json",
+}
 GITHUB_USER = "Nagi-ovo"
 REPOS_WITH_RELEASES = ["gemini-voyager", "shiori-releases"]
 PROFILE_ASSET_BASE = "https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets"
@@ -81,11 +91,14 @@ def blog_cover_url(post):
 
 def fetch_blog_posts():
     try:
-        # Cache-bust: /api/posts is served with max-age=3600 at Cloudflare's
-        # edge, so a plain fetch can return a stale list from whichever PoP the
-        # CI runner hits (e.g. a post just marked draft still showing). A
-        # per-run query param forces a fresh origin read every build.
-        posts = fetch_json(f"{BLOG_API}?t={int(time.time())}")
+        # /api/posts is served with max-age=3600 at Cloudflare's edge, so a
+        # plain fetch can return a stale list right after a deploy (e.g. a post
+        # just marked draft still showing). A per-run cache-bust param forces a
+        # fresh read; the browser UA gets past CF's bot-check on the resulting
+        # cache miss.
+        posts = fetch_json(
+            f"{BLOG_API}?t={int(time.time())}", headers=BROWSER_HEADERS
+        )
         rows = []
         for post in posts[:MAX_POSTS]:
             title_cn = post["title"]
