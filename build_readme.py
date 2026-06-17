@@ -1,6 +1,7 @@
 import re
 import json
 import os
+import time
 from html import escape
 from urllib.request import urlopen, Request
 
@@ -80,7 +81,11 @@ def blog_cover_url(post):
 
 def fetch_blog_posts():
     try:
-        posts = fetch_json(BLOG_API)
+        # Cache-bust: /api/posts is served with max-age=3600 at Cloudflare's
+        # edge, so a plain fetch can return a stale list from whichever PoP the
+        # CI runner hits (e.g. a post just marked draft still showing). A
+        # per-run query param forces a fresh origin read every build.
+        posts = fetch_json(f"{BLOG_API}?t={int(time.time())}")
         rows = []
         for post in posts[:MAX_POSTS]:
             title_cn = post["title"]
