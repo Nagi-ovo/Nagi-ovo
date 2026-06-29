@@ -18,7 +18,7 @@ BROWSER_HEADERS = {
     "Accept": "application/json",
 }
 GITHUB_USER = "Nagi-ovo"
-REPOS_WITH_RELEASES = ["gemini-voyager", "shiori-releases"]
+REPOS_WITH_RELEASES = ["gemini-voyager", "shiori-releases", "komorebi"]
 PROFILE_ASSET_BASE = "https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets"
 RELEASE_REPO_META = {
     "gemini-voyager": {
@@ -30,6 +30,11 @@ RELEASE_REPO_META = {
         "name": "Shiori",
         "logo": f"{PROFILE_ASSET_BASE}/release-shiori.png?raw=true",
         "include_prereleases": True,
+    },
+    "komorebi": {
+        "name": "Komorebi",
+        "logo": "https://github.com/Nagi-ovo/komorebi/blob/main/icons/icon-32.png?raw=true",
+        "include_prereleases": False,
     },
 }
 MAX_POSTS = 3
