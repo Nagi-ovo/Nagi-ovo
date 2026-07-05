@@ -138,8 +138,8 @@ def format_blog_post(title_cn, title_en, url, date, cover):
     return (
         "<tr>"
         f"{cover_cell}"
-        f'<td valign="top"><a href="{url_html}">{title_cn_html}</a><br>'
-        f"<sub>{title_en_html} - {date_html}</sub></td>"
+        f'<td valign="top"><a href="{url_html}">{title_en_html}</a><br>'
+        f"<sub>{title_cn_html} - {date_html}</sub></td>"
         "</tr>"
     )
 
