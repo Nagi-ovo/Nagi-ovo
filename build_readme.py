@@ -211,7 +211,8 @@ def format_release(release):
     else:
         icon = "• "
 
-    return f"{icon}[{name} {release['tag']}]({release['url']}) - {release['date']}"
+    repo_url = f"https://github.com/{GITHUB_USER}/{release['repo']}"
+    return f"{icon}[{name} {release['tag']}]({repo_url}) - {release['date']}"
 
 
 if __name__ == "__main__":
