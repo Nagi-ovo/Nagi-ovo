@@ -6,7 +6,7 @@
 
 Hi there <img src='https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets/hi.gif?raw=true' alt='Hi' width="20"/>
 
-I'm a Master of Research (MRes) student at Imperial College London, diving into RL and humanoid robots!
+I'm a CS PhD student at Imperial College London, supervised by Stephen James, working on foundation models for robot learning.
 
 Let's connect on GitHub!
 
