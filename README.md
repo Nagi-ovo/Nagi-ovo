@@ -12,8 +12,6 @@ Let's connect on GitHub!
 
 Check out [my homepage](https://nagi.fun) for more info!
 
-中文社群和知识库：[卡普迪姆的知识小屋](https://wiki.nagi.fun)
-
 <br clear="right"/>
 
 **Latest Releases**
