@@ -17,7 +17,7 @@ Check out [my homepage](https://nagi.fun) for more info!
 **Latest Releases**
 
 <!-- releases starts -->
-<img src="https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets/release-gemini-voyager.png?raw=true" alt="Voyager logo" width="18" height="18" align="absmiddle" />&nbsp;[Voyager v2.3.4](https://github.com/Nagi-ovo/gemini-voyager) - 2026-11-23<br><img src="https://github.com/Nagi-ovo/komorebi/blob/main/icons/icon-32.png?raw=true" alt="Komorebi logo" width="18" height="18" align="absmiddle" />&nbsp;[Komorebi v0.8.5](https://github.com/Nagi-ovo/komorebi) - 2026-11-22<br><img src="https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets/release-shiori.png?raw=true" alt="Shiori logo" width="18" height="18" align="absmiddle" />&nbsp;[Shiori v26.11.16](https://github.com/Nagi-ovo/shiori-releases) - 2026-11-16
+<img src="https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets/release-gemini-voyager.png?raw=true" alt="Voyager logo" width="18" height="18" align="absmiddle" />&nbsp;[Voyager v2.3.5](https://github.com/Nagi-ovo/gemini-voyager) - 2026-11-25<br><img src="https://github.com/Nagi-ovo/komorebi/blob/main/icons/icon-32.png?raw=true" alt="Komorebi logo" width="18" height="18" align="absmiddle" />&nbsp;[Komorebi v0.8.5](https://github.com/Nagi-ovo/komorebi) - 2026-11-22<br><img src="https://github.com/Nagi-ovo/Nagi-ovo/blob/main/assets/release-shiori.png?raw=true" alt="Shiori logo" width="18" height="18" align="absmiddle" />&nbsp;[Shiori v26.11.16](https://github.com/Nagi-ovo/shiori-releases) - 2026-11-16
 <!-- releases ends -->
 
 <br>
